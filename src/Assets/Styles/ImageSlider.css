@@ -1,0 +1,19 @@
+.image-container {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+
+.previous,
+.next {
+  /* display: block; */
+  font-weight: bold;
+  padding: 10px;
+  margin: 10px;
+}
+
+.images {
+  width: 700px;
+}
